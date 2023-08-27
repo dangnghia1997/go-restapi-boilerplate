@@ -1,0 +1,2 @@
+db_connection_string: "root:root@tcp(localhost:3306)/bookstore?parseTime=true"
+server_port: ":8080"
